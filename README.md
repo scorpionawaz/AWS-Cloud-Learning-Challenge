@@ -76,7 +76,7 @@ Amazon Simple Storage Service (Amazon S3) is a scalable storage solution that al
 
 ## Additional Considerations
 
-- Multipart Uploads: For large files (over 100 MB), consider using multipart uploads to enhance upload efficiency and reliability. citeturn0search1
+- Multipart Uploads: For large files (over 100 MB), consider using multipart uploads to enhance upload efficiency and reliability.
 - Storage Classes: Choose the appropriate storage class based on your access patterns and storage requirements.
 - Security: Implement proper access controls and encryption to protect your data.
 
