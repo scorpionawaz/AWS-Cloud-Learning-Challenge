@@ -98,7 +98,7 @@ By following these steps, you can efficiently upload your project to Amazon S3, 
 
 
 
-Deploying Your Project with AWS Amplify
+**Deploying Your Project with AWS Amplify**
 
 AWS Amplify is a powerful platform that makes it easy to build, deploy, and scale full-stack web and mobile applications. Whether you're hosting a static website, integrating a backend, or managing authentication, Amplify simplifies the entire process.
 
@@ -107,7 +107,7 @@ This guide walks you through deploying your project to AWS Amplify step by step.
 
 ---
 
-Prerequisites
+**Prerequisites**
 
 Before we get started, make sure you have:
 
