@@ -16,7 +16,7 @@ Amazon Simple Storage Service (Amazon S3) is a scalable storage solution that al
 
    - Sign in to the [AWS Management Console](https://console.aws.amazon.com/s3/).
    - Navigate to the S3 service.
-   - Click on "Create bucket."
+   - Click on "Create bucket.
    - Provide a unique bucket name and select the desired AWS region.
    - Configure any additional settings as needed.
    - Click "Create bucket" to finalize.
