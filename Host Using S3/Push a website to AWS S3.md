@@ -5,8 +5,6 @@ Amazon Web Services (AWS) offers a simple and cost-effective solution for hostin
 ## PREREQUISITE
 
 - An AWS account (sign up at [AWS](https://aws.amazon.com/) if you don’t have one)
-- 
-
 ## STEP 1: CREATE A S3 BUCKET
 
 1. Log in to your AWS Management Console.
