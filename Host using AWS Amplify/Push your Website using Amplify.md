@@ -14,8 +14,8 @@ Before you begin, ensure you have the following:
 - Select **Amplify** from the results.  
 ![Search Amplify](amplify/1search.png)  
 
-### 2️⃣ Select "Deploy an App"  
-- Click on **"Deploy"** an application.  
+### 2️⃣ Open Amplify"  
+- Select **Amplify** from the results.  
 ![Select Amplify](amplify/2selectamplify.png)  
 
 ### 3️⃣ Connect GitHub Repository  
@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
 ![Click Deploy App](amplify/3clickindeployapp.png)  
 - Authorize AWS Amplify to access your GitHub account.  
 - Select your **GitHub repository**.  
-![Select GitHub](amplify/4selectgit.png)  
+![Select GitHub](amplify/4.selectgit.png)  
 
 ### 4️⃣ Choose the Repository and Branch  
 - Select the specific repository containing your **game or website**.  
