@@ -11,7 +11,6 @@ Before you begin, ensure you have the following:
 ### 1️⃣ Search for AWS Amplify  
 - Log in to the **AWS Console**.  
 - Search for **"Amplify"** in the AWS search bar.  
-- Select **Amplify** from the results.  
 ![Search Amplify](amplify/1search.png)  
 
 ### 2️⃣ Open Amplify"  
